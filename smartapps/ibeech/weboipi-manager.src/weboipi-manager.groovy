@@ -21,7 +21,7 @@
 	6) Click 'Create'
 	7) Click 'Publish -> For Me'
 
- *  Update from Justin
+ *   Update from Justin
  */
 definition(
     name: "WebOIPi Manager",
